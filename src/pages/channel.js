@@ -5,7 +5,7 @@ import Swiperadd from '@/components/swiperadd';
 
 import Image from 'next/image';
 import Frame from '../../public/Frame.png'
-import videoFrame from '/public/video frame.png'
+import videoFrame from '/public/video-frame.png'
 
 
 const Channel = () => {
