@@ -19,7 +19,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className='flex'>
+      <main className='flex m-auto'>
         <Sidebar></Sidebar>
         <div >
           <Topbar></Topbar>

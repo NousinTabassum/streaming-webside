@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import { BiAlbum } from "react-icons/bi";
-import rect from '/public/Rectangle 13.png'
+import rect from '/public/unsplash_et_78QkMMQs.png'
 
 const Topitems = () => {
     return (

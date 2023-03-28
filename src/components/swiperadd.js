@@ -13,7 +13,7 @@ import Topitems from './topitems';
 
 const Swiperadd = () => {
     return (
-        <>
+        <div className='overflow-hidden'>
             <Swiper
 
                 slidesPerView={3}
@@ -73,7 +73,9 @@ const Swiperadd = () => {
                 </SwiperSlide>
 
             </Swiper>
-        </>
+
+        </div>
+
 
 
 

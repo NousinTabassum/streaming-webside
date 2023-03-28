@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import Topitems from './topitems';
-import rect from '/public/Rectangle 13.png'
+import rect from '/public/unsplash_mEZ3PoFGs_k.png'
 import pic3 from '/public/pic3.png'
 
 const Hotrightnow = () => {

@@ -15,12 +15,12 @@ const Channel = () => {
                 <Sidebar></Sidebar>
             </div>
             <div>
-                <div className='flex justify-center flex-auto'>
+                <div className='flex justify-center flex-auto w-full'>
                     <Image src={Frame} alt=""></Image>
                 </div>
                 <Playlist></Playlist>
                 <div className=' mt-6  grid grid-cols-1 md:grid-cols-5 '>
-                    <div className="card shadow-xl mr-6 col-span-2 ">
+                    <div className="card shadow-xl mr-6 col-span-1 md:col-span-2 ">
                         <figure>
                             <Image src={videoFrame} alt=''></Image>
                         </figure>
