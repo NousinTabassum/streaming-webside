@@ -13,7 +13,7 @@ const Playlist = () => {
 
             <div className='grid grid-cols-1 md:grid-cols-4 gap-3 '>
 
-                {['pic5', 'pic6', 'pic7', 'pic8'].map((path) => {
+                {['pic13', 'pic14', 'pic15', 'pic16'].map((path) => {
                     return (
 
                         <div className='overflow-hidden bg-black-400 hover:scale-110  duration-300' key={path}>
